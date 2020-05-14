@@ -20,3 +20,4 @@ Please enjoy some photos:
 ![App Screenshot](/images/final_app.png)
 
 ![Mars Hemispheres](/images/mars_hemispheres.png)
+.
